@@ -9,5 +9,5 @@
 |미션명|코드|PR 및 피드백|
 |------|---|---|
 |자동차 경주 미션 - step1|[java-racingcar](https://github.com/pjy1368/java-racingcar/tree/pjy1368)|[PR of java-racingcar:step1](https://github.com/woowacourse/java-racingcar/pull/123#event-4295280662)|
-|자동차 경주 미션 - step2|[java-racingcar](https://github.com/pjy1368/java-racingcar/tree/pjy1368)|[PR of java-racingcar:step1](https://github.com/woowacourse/java-racingcar/pull/156#event-4302312101)|
+|자동차 경주 미션 - step2|[java-racingcar](https://github.com/pjy1368/java-racingcar/tree/pjy1368)|[PR of java-racingcar:step2](https://github.com/woowacourse/java-racingcar/pull/156#event-4302312101)|
 |로또 미션 - step1|[java-lotto](https://github.com/pjy1368/java-lotto/tree/step1)|[PR of java-lotto:step1](https://github.com/woowacourse/java-lotto/pull/229)|
