@@ -15,4 +15,5 @@
 |캐비넷 미션 (번외)|[java-cabinet](https://github.com/pjy1368/java-cabinet)|None|
 |블랙잭 미션 - step1|[java-blackjack](https://github.com/pjy1368/java-blackjack/tree/step1)|[PR of java-blackjack:step1](https://github.com/woowacourse/java-blackjack/pull/115)|
 |블랙잭 미션 - step2|[java-blackjack](https://github.com/pjy1368/java-blackjack/tree/step2)|[PR of java-blackjack:step2](https://github.com/woowacourse/java-blackjack/pull/172)|
-|체스 미션 - step1|[java-chess](https://github.com/pjy1368/java-chess/tree/step1)|[PR of java-chess:step1](https://github.com/woowacourse/java-chess/pull/162)
+|체스 미션 - step1|[java-chess](https://github.com/pjy1368/java-chess/tree/step1)|[PR of java-chess:step1](https://github.com/woowacourse/java-chess/pull/162)|
+|To-Do List 미션 - step1|[js-todo-list-step1](https://github.com/pjy1368/js-todo-list-step1/tree/step1)|[PR of js-todo-list-step1](https://github.com/woowacourse/js-todo-list-step1/pull/14)
