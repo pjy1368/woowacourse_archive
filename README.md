@@ -18,4 +18,5 @@
 |체스 미션 - step1|[java-chess](https://github.com/pjy1368/java-chess/tree/step1)|[PR of java-chess:step1](https://github.com/woowacourse/java-chess/pull/162)|
 |To-Do List 미션 - step1|[js-todo-list-step1](https://github.com/pjy1368/js-todo-list-step1/tree/step1)|[PR of js-todo-list-step1](https://github.com/woowacourse/js-todo-list-step1/pull/14)|
 |To-Do List 미션 - step2|[js-todo-list-step2](https://github.com/pjy1368/js-todo-list-step2/tree/step1)|[PR of js-todo-list-step2](https://github.com/woowacourse/js-todo-list-step2/pull/1)|
-|글쓰기 미션 - LEVEL 1|[woowa-writing-3/LEVEL1](https://github.com/pjy1368/woowa-writing-3/blob/pjy1368/LEVEL1.md)|[PR of woowa-writing/LEVEL1](https://github.com/woowacourse/woowa-writing-3/pull/8)
+|글쓰기 미션 - LEVEL 1|[woowa-writing-3/LEVEL1](https://github.com/pjy1368/woowa-writing-3/blob/pjy1368/LEVEL1.md)|[PR of woowa-writing/LEVEL1](https://github.com/woowacourse/woowa-writing-3/pull/8)|
+|체스 미션 - step2|[java-chess](https://github.com/pjy1368/java-chess/tree/step2)|[PR of java-chess:step2](https://github.com/woowacourse/java-chess/pull/218)|
