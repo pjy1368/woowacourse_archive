@@ -1,6 +1,6 @@
 # 우아한 테크코스 아카이빙
 우아한 테크코스동안 진행하였던 미션 및 프로젝트 코드와 피드백을 아카이빙해 두었습니다.
-
+</br></br>
 
 ## 레벨 1. TDD와 OOP, 웹과 DB
 1주차는 step1과 step2로 분리하지 않아서 부득이하게 완결된 코드를 올립니다.<br>
@@ -20,3 +20,10 @@
 |To-Do List 미션 - step2|[js-todo-list-step2](https://github.com/pjy1368/js-todo-list-step2/tree/step1)|[PR of js-todo-list-step2](https://github.com/woowacourse/js-todo-list-step2/pull/1)|
 |글쓰기 미션 - LEVEL 1|[woowa-writing-3/LEVEL1](https://github.com/pjy1368/woowa-writing-3/blob/pjy1368/LEVEL1.md)|[PR of woowa-writing/LEVEL1](https://github.com/woowacourse/woowa-writing-3/pull/8)|
 |체스 미션 - step2|[java-chess](https://github.com/pjy1368/java-chess/tree/step2)|[PR of java-chess:step2](https://github.com/woowacourse/java-chess/pull/218)|
+
+
+## 레벨 2. Java Spring
+
+|미션명|코드|PR 및 피드백|
+|------|---|---|
+|스프링 입문 - 체스 - step1|[java-basic-spring-chess](https://github.com/pjy1368/jwp-chess/tree/step1)|[PR of java-basic-spring-chess-step1](https://github.com/woowacourse/jwp-chess/pull/261)|
