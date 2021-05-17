@@ -27,3 +27,4 @@
 |미션명|코드|PR 및 피드백|
 |------|---|---|
 |스프링 입문 - 체스 - step1|[java-basic-spring-chess](https://github.com/pjy1368/jwp-chess/tree/step1)|[PR of java-basic-spring-chess-step1](https://github.com/woowacourse/jwp-chess/pull/261)|
+|스프링 입문 - 체스 - step2|[java-basic-spring-chess](https://github.com/pjy1368/jwp-chess/tree/step2)|[PR of java-basic-spring-chess-step2](https://github.com/woowacourse/jwp-chess/pull/273)|
