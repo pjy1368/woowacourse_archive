@@ -16,8 +16,8 @@
 |블랙잭 미션 - step1|[java-blackjack](https://github.com/pjy1368/java-blackjack/tree/step1)|[PR of java-blackjack:step1](https://github.com/woowacourse/java-blackjack/pull/115)|
 |블랙잭 미션 - step2|[java-blackjack](https://github.com/pjy1368/java-blackjack/tree/step2)|[PR of java-blackjack:step2](https://github.com/woowacourse/java-blackjack/pull/172)|
 |체스 미션 - step1|[java-chess](https://github.com/pjy1368/java-chess/tree/step1)|[PR of java-chess:step1](https://github.com/woowacourse/java-chess/pull/162)|
-|To-Do List 미션 - step1|[js-todo-list-step1](https://github.com/pjy1368/js-todo-list-step1/tree/step1)|[PR of js-todo-list-step1](https://github.com/woowacourse/js-todo-list-step1/pull/14)|
-|To-Do List 미션 - step2|[js-todo-list-step2](https://github.com/pjy1368/js-todo-list-step2/tree/step1)|[PR of js-todo-list-step2](https://github.com/woowacourse/js-todo-list-step2/pull/1)|
+|To-Do List 미션 - step1|[js-todo-list](https://github.com/pjy1368/js-todo-list-step1/tree/step1)|[PR of js-todo-list-step1](https://github.com/woowacourse/js-todo-list-step1/pull/14)|
+|To-Do List 미션 - step2|[js-todo-list](https://github.com/pjy1368/js-todo-list-step2/tree/step1)|[PR of js-todo-list-step2](https://github.com/woowacourse/js-todo-list-step2/pull/1)|
 |글쓰기 미션 - LEVEL 1|[woowa-writing-3/LEVEL1](https://github.com/pjy1368/woowa-writing-3/blob/pjy1368/LEVEL1.md)|[PR of woowa-writing/LEVEL1](https://github.com/woowacourse/woowa-writing-3/pull/8)|
 |체스 미션 - step2|[java-chess](https://github.com/pjy1368/java-chess/tree/step2)|[PR of java-chess:step2](https://github.com/woowacourse/java-chess/pull/218)|
 
@@ -26,9 +26,9 @@
 
 |미션명|코드|PR 및 피드백|
 |------|---|---|
-|스프링 입문 - 체스 미션 - step1|[jwp-chess-step1](https://github.com/pjy1368/jwp-chess/tree/step1)|[PR of jwp-chess-step1](https://github.com/woowacourse/jwp-chess/pull/261)|
-|스프링 입문 - 체스 미션 - step2|[jwp-chess-step2](https://github.com/pjy1368/jwp-chess/tree/step2)|[PR of jwp-chess-step2](https://github.com/woowacourse/jwp-chess/pull/273)|
-|스프링 지하철 노선도 관리 미션 - step1|[atdd-subway-map-step1](https://github.com/pjy1368/atdd-subway-map/tree/step1)|[PR of atdd-subway-map-step1](https://github.com/woowacourse/atdd-subway-map/pull/70)|
-|스프링 지하철 노선도 관리 미션 - step2|[atdd-subway-map-step2](https://github.com/pjy1368/atdd-subway-map/tree/step2)|[PR of atdd-subway-map-step2](https://github.com/woowacourse/atdd-subway-map/pull/124)|
-|스프링 지하철 경로 조회 미션 - step1|[atdd-subway-path-step1](https://github.com/pjy1368/atdd-subway-path/step1)|[PR of atdd-subway-path-step1](https://github.com/woowacourse/atdd-subway-path/pull/63)|
-|스프링 지하철 경로 조회 미션 - step2|[atdd-subway-path-step2](https://github.com/pjy1368/atdd-subway-path/step2)|[PR of atdd-subway-path-step2](https://github.com/woowacourse/atdd-subway-path/pull/105)|
+|스프링 입문 - 체스 미션 - step1|[jwp-chess](https://github.com/pjy1368/jwp-chess/tree/step1)|[PR of jwp-chess-step1](https://github.com/woowacourse/jwp-chess/pull/261)|
+|스프링 입문 - 체스 미션 - step2|[jwp-chess](https://github.com/pjy1368/jwp-chess/tree/step2)|[PR of jwp-chess-step2](https://github.com/woowacourse/jwp-chess/pull/273)|
+|스프링 지하철 노선도 관리 미션 - step1|[atdd-subway-map](https://github.com/pjy1368/atdd-subway-map/tree/step1)|[PR of atdd-subway-map-step1](https://github.com/woowacourse/atdd-subway-map/pull/70)|
+|스프링 지하철 노선도 관리 미션 - step2|[atdd-subway-map](https://github.com/pjy1368/atdd-subway-map/tree/step2)|[PR of atdd-subway-map-step2](https://github.com/woowacourse/atdd-subway-map/pull/124)|
+|스프링 지하철 경로 조회 미션 - step1|[atdd-subway-path](https://github.com/pjy1368/atdd-subway-path/step1)|[PR of atdd-subway-path-step1](https://github.com/woowacourse/atdd-subway-path/pull/63)|
+|스프링 지하철 경로 조회 미션 - step2|[atdd-subway-path](https://github.com/pjy1368/atdd-subway-path/step2)|[PR of atdd-subway-path-step2](https://github.com/woowacourse/atdd-subway-path/pull/105)|
