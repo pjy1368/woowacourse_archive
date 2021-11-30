@@ -49,7 +49,6 @@
 |체스 미션 - step1|[java-chess](https://github.com/pjy1368/java-chess/tree/step1)|[PR of java-chess:step1](https://github.com/woowacourse/java-chess/pull/162)|
 |To-Do List 미션 - step1|[js-todo-list](https://github.com/pjy1368/js-todo-list-step1/tree/step1)|[PR of js-todo-list-step1](https://github.com/woowacourse/js-todo-list-step1/pull/14)|
 |To-Do List 미션 - step2|[js-todo-list](https://github.com/pjy1368/js-todo-list-step2/tree/step1)|[PR of js-todo-list-step2](https://github.com/woowacourse/js-todo-list-step2/pull/1)|
-|글쓰기 미션 - LEVEL 1|[woowa-writing-3/LEVEL1](https://github.com/pjy1368/woowa-writing-3/blob/pjy1368/LEVEL1.md)|[PR of woowa-writing/LEVEL1](https://github.com/woowacourse/woowa-writing-3/pull/8)|
 |체스 미션 - step2|[java-chess](https://github.com/pjy1368/java-chess/tree/step2)|[PR of java-chess:step2](https://github.com/woowacourse/java-chess/pull/218)|
 
 </br>
@@ -105,3 +104,28 @@
 - [3차 데모 - WS+WAS 연결, API 문서화, 테스트 전략, 로깅](https://www.youtube.com/watch?v=RjfRiJBg65M)
 - [4차 데모 - 테스트 자동화, CloudWatch logs 대시보드를 구성](https://www.youtube.com/watch?v=_Rolldacpik)
 - [5차 데모 - 추가된 기능 소개, 성능 개선 사항](https://www.youtube.com/watch?v=SaF-LEq3vxg)
+
+## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+
+### 학습 목표
+
+- 현장에서 필요한 말하기 능력을 향상시키기 위해 진행하는 우아한테크코스만의 문화입니다.
+
+### 발표 주제 : JCF
+
+- [제이온의 JCF - Youtube](https://www.youtube.com/watch?v=SLifMOhW1VA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+
+
+## 🖋 Writing : 글쓰기 코스
+
+### 학습 목표
+
+- 현장에서 필요한 글쓰기 능력을 향상시키기 위해 진행하는 우아한테크코스만의 문화입니다.
+
+### 진행 미션
+
+| Level |                 Topic                  |                         Pull Request                         |
+| :---: | :------------------------------------: | :----------------------------------------------------------: |
+|   1   |      우아한테크코스 한 달 생활기       | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/8) |
+|   2   | 우아한 테크 코스에서 깨달은 학습 방법 | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/83) |
+|   3   |      팀 프로젝트가 나에게 남긴 것   | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/171) |
